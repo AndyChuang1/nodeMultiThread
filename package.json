@@ -1,0 +1,14 @@
+{
+  "name": "nodemultithread",
+  "version": "1.0.0",
+  "description": "Learn node multi thread",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "single": "node singleThread.js",
+    "multi": "node multiThread.js"
+  },
+  "author": "Andy Chuang",
+  "license": "ISC",
+  "type": "module"
+}
